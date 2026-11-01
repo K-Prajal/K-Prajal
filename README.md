@@ -21,7 +21,7 @@
 
 ## 🏆 Hackathon Project
 
-- 🏙️ **[SpotFix](https://github.com/K-Prajal/SpotFix)**: A civic issue reporting web app built for a Naukri.com hackathon using an AI app-building tool. I wrote the prompts, tested and iterated on the app, and deployed it ([live demo](https://spot-fix-one.vercel.app)).
+- 🏙️ **[SpotFix](https://github.com/K-Prajal/SpotFix)**: A civic issue reporting web app built for a Naukri.com hackathon using Google AI Studio. I wrote the prompts, tested and iterated on the app, and deployed it ([live demo](https://spot-fix-one.vercel.app)).
 
 ## 🎯 Currently Learning
 
