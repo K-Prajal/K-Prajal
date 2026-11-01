@@ -11,14 +11,17 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 Featured Projects
+## 📊 Featured Project
 
 - 🛒 **[E-Commerce SQL Analytics](https://github.com/K-Prajal/E-Commerce-SQL-Analytics)**: SQL analysis of about 100K orders from a Brazilian e-commerce marketplace (Olist) using MySQL, covering customer geography, revenue, payments and delivery performance.
-- 🏙️ **[SpotFix](https://github.com/K-Prajal/SpotFix)**: AI-powered civic issue reporting and community problem-solving platform for smarter cities, built with TypeScript.
 
 ## 🚧 Currently Building
 
 - 🏢 **Dubai Land Department Data Warehouse (Databricks)**: Rebuilding a property data warehouse with Delta Lake, Auto Loader, a star schema and a dashboard. Work in progress.
+
+## 🏆 Hackathon Project
+
+- 🏙️ **[SpotFix](https://github.com/K-Prajal/SpotFix)**: AI-powered civic issue reporting and community problem-solving platform, built with a team during a hackathon (TypeScript).
 
 ## 🎯 Currently Learning
 
