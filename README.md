@@ -27,7 +27,7 @@
 
 - Advanced SQL (window functions, CTEs, query optimization)
 - Data visualization and dashboards
-- Data modeling and ETL pipelines
+- Data modeling and ELT pipelines
 
 ## 📫 Let's Connect
 
